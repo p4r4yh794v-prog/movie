@@ -414,4 +414,3 @@ st.bar_chart(
 st.caption(
     f"※ {display_date} 기준 · 데이터 출처: KOBIS 일일 박스오피스 API"
 )
-```
